@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'base64'
 require 'openssl'
 require 'pathname'
